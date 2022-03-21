@@ -1,4 +1,4 @@
-@Library('roboshop') _
+@Library('roboshop1') _
 
 // Variables
 env.BUILD_LABEL = "WORKSTATION"
